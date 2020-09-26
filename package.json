@@ -1,0 +1,9 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "this is the blog and knowledge notes for myself",
+  "main": "index.js",
+  "repository": "https://github.com/zhoudl0605/my-blog.git",
+  "author": "Dinglun Alex Zhou",
+  "license": "MIT"
+}
